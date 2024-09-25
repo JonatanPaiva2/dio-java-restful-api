@@ -1,4 +1,4 @@
-package one.digitalinnovation.java_restful_api;
+package one.digitalinnovation.java_restful_api.domain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

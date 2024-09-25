@@ -1,4 +1,4 @@
-package one.digitalinnovation.java_restful_api.model;
+package one.digitalinnovation.java_restful_api.domain.model;
 
 import jakarta.persistence.Entity;
 
